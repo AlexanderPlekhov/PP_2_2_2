@@ -29,7 +29,7 @@ public class Car {
         return "Car {" +
                 "brand = '" + brand + '\'' +
                 ", series = " + series +
-                ", yearOfIssue = " + yearOfManufacture +
+                ", yearOfManufacture = " + yearOfManufacture +
                 '}';
     }
 }
